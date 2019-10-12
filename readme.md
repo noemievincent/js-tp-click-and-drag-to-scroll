@@ -28,7 +28,7 @@ Dans le cadre de cet exercice nous vous demandons de permettre à l'utilisateur 
 
 Avant de commencer l'exercice, posez-vous afin de comprendre et surtout décomposer le mouvement de drag que l'on pourrait voir comme suit. 
 
-1. [mousedown](https://developer.mozilla.org/fr/docs/Web/API/Element/mousedown_event)
+1. [mousedown](https://developer.mozilla.org/fr/docs/Web/API/Element/mousedown_event)
 2. [mousemove](https://developer.mozilla.org/fr/docs/Web/API/Element/mousemove_event)
 3. [mouseup](https://developer.mozilla.org/fr/docs/Web/API/Element/mouseup_event) ou [mouseleave](https://developer.mozilla.org/fr/docs/Web/API/Element/mouseleave_event)
 
