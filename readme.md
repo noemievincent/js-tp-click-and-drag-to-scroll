@@ -1,5 +1,17 @@
 # Click and Drag to Scroll
+> JS exercise given at HEPL
 
+* * *
+
+**js-tp-click-and-drag-to-scroll** is an educational project, which will be used for `JS` courses.
+
+**Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
+
+* * *
+
+> Lors de vos cours de *web*, vous allez découvrir le langage *JavaScript* et le mettre en pratique pour apprendre à rendre vos pages web interactives.  
+
+* * *
 Dans le cadre de cet exercice nous vous demandons de permettre à l'utilisateur de se déplacer dans le slider à l'aide de sa souri en faisan du drag, (maintenir le clic enfoncé et se délacer). Nous retiendrons qu’il s’agit ici d’un exemple scolaire puisqu’en temps normal l’utilisateur doit pouvoir utiliser le site internet intégralement au clavier. Il serait donc nécessaire de prévoir des alternatives au clavier.
 
 
