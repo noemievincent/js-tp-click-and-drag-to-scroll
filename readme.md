@@ -28,7 +28,7 @@ Dans le cadre de cet exercice nous vous demandons de permettre à l'utilisateur 
 
 
 
-## Ressources
+## Aides
 
 * [mouseup](https://developer.mozilla.org/fr/docs/Web/API/Element/mouseup_event)
 * [mouseleave](https://developer.mozilla.org/fr/docs/Web/API/Element/mouseleave_event)
@@ -45,6 +45,10 @@ Avant de commencer l'exercice, posez-vous afin de comprendre et surtout décompo
 3. [mouseup](https://developer.mozilla.org/fr/docs/Web/API/Element/mouseup_event) ou [mouseleave](https://developer.mozilla.org/fr/docs/Web/API/Element/mouseleave_event)
 
 Vous devrez aussi opter pour une stratégie afin de calculer le déplacement horizontal lors du drag. Car c'est ce nombre qui vous indique de combien de pixels, vous devez déplacer le slider. Vous pourriez déterminer une origine. Donc un point d’ancrage ( obtenu au premier clic ) que vous pouvez comparer avec les nouvelles coordonnées obtenues pendant le déplacement (mousemove). Notez que ce nombre peut être multiplié afin d’amplifier l’effet de déplacement du slider.
+
+## Source
+
+[JavaScript30](https://javascript30.com) de [Wes Bos](https://wesbos.com)
 
 
 
